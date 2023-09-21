@@ -1,0 +1,7 @@
+setup.py
+trabajo/cliente.py
+trabajo/segunda.py
+trabajo.egg-info/PKG-INFO
+trabajo.egg-info/SOURCES.txt
+trabajo.egg-info/dependency_links.txt
+trabajo.egg-info/top_level.txt
